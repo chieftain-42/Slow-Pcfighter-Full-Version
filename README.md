@@ -238,3 +238,6 @@ This repository serves as the official landing page for SLOW-PCfighter. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SLOW-PCfighter today!**
+
+---
+**Last updated:** 2026-09-08 20:58:53 UTC
